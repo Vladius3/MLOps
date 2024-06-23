@@ -1,0 +1,4 @@
+pytest
+numpy
+nbmake
+sklearn
